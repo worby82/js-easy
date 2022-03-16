@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/js-easy/static/css/main.42d39201.css",
+    "main.js": "/js-easy/static/js/main.b6fd323c.js",
+    "index.html": "/js-easy/index.html",
+    "main.42d39201.css.map": "/js-easy/static/css/main.42d39201.css.map",
+    "main.b6fd323c.js.map": "/js-easy/static/js/main.b6fd323c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d39201.css",
+    "static/js/main.b6fd323c.js"
+  ]
+}
