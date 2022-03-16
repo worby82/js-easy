@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/js-easy/static/css/main.42d39201.css",
-    "main.js": "/js-easy/static/js/main.b6fd323c.js",
+    "main.css": "/js-easy/static/css/main.d86afe2b.css",
+    "main.js": "/js-easy/static/js/main.3bcba257.js",
+    "static/media/Roboto-Regular.woff": "/js-easy/static/media/Roboto-Regular.2e48536ea545ee2bb67c.woff",
+    "static/media/Roboto-Medium.woff": "/js-easy/static/media/Roboto-Medium.4b0d21d570117d69b246.woff",
+    "static/media/Roboto-Medium.woff2": "/js-easy/static/media/Roboto-Medium.fc4e8304f883ee0f5c99.woff2",
+    "static/media/Roboto-Regular.woff2": "/js-easy/static/media/Roboto-Regular.0c42724e8c48d0d4e9a8.woff2",
     "index.html": "/js-easy/index.html",
-    "main.42d39201.css.map": "/js-easy/static/css/main.42d39201.css.map",
-    "main.b6fd323c.js.map": "/js-easy/static/js/main.b6fd323c.js.map"
+    "main.d86afe2b.css.map": "/js-easy/static/css/main.d86afe2b.css.map",
+    "main.3bcba257.js.map": "/js-easy/static/js/main.3bcba257.js.map"
   },
   "entrypoints": [
-    "static/css/main.42d39201.css",
-    "static/js/main.b6fd323c.js"
+    "static/css/main.d86afe2b.css",
+    "static/js/main.3bcba257.js"
   ]
 }
